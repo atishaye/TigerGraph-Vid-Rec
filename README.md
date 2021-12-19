@@ -16,7 +16,7 @@ Sample project with dashboard on Analytical Video Recommendation System built us
 
 Now, TigerGraph has been set up
 
-Access the code using [this](https://github.com/atishaye/TigerGraph-Vid-Rec/blob/166e7f9c8152f1ae71975e41e2723b46f803c840/TigerGraph.ipynb).
+* Access the code using [this](https://github.com/atishaye/TigerGraph-Vid-Rec/blob/166e7f9c8152f1ae71975e41e2723b46f803c840/TigerGraph.ipynb).
 You can open the notebook in Google Collab and run all cells to see the the dashboard
 
 **Below is a video explaining the working of the dashboard:**
